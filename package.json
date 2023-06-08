@@ -1,0 +1,23 @@
+{
+    "name": "svg-logo-maker",
+    "version": "1.0.0",
+    "description": "Module 10 challenge - SVG Logo Maker",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "start": "node index.js",
+        "test":"jest"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+        "jest": "^24.9.0"
+    }
+}
+
+
+
