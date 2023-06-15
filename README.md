@@ -23,5 +23,5 @@ And then you can run the script by
    node index.js
 
 ## Screenshot
-![image](https://github.com/DLEllis07/SVG-Logo-Maker/assets/122822611/01d92866-46ce-46d6-8ed2-7149829999c2)
 
+![Screenshot (2)](https://github.com/DLEllis07/SVG-Logo-Maker/assets/122822611/c89589de-104c-4a42-a076-97970ebf1c4c)
