@@ -22,3 +22,6 @@ And then you can run the script by
    ```shell
    node index.js
 
+## Screenshot
+![image](https://github.com/DLEllis07/SVG-Logo-Maker/assets/122822611/01d92866-46ce-46d6-8ed2-7149829999c2)
+
