@@ -23,5 +23,9 @@ And then you can run the script by
    node index.js
 
 ## Screenshot
+npm i
 
-![Screenshot (2)](https://github.com/DLEllis07/SVG-Logo-Maker/assets/122822611/c89589de-104c-4a42-a076-97970ebf1c4c)
+And then you can run the script by
+
+```shell
+node index.js
